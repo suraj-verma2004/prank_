@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: lavender;
+}
+H1{
+    color: coral;
+    font-size: 10rem;
+}
+.ybtn{
+    background: greenyellow;
+    padding: 5px;
+    margin: 3px;
+}
+button{
+    width:20vh;
+    height: 10vh;
+    margin: 20rem;
+    font-size: 2vh;
+   
+}
+.btngrp{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+.nobtn{
+    background: red;
+    padding: 5px;
+ 
+    position: absolute;
+  
+}
